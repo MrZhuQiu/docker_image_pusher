@@ -6,4 +6,5 @@ xhofe/alist:latest
 --platform=linux xiaoyaliu/alist
 --platform=amd64 xiaoyaliu/alist
 --platform=x86_64 xiaoyaliu/alist
-dmtc/tun:latest
+--platform=linux dmtc/tun
+--platform=amd64 dmtc/tun
