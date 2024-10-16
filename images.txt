@@ -8,4 +8,4 @@ xhofe/alist:latest
 --platform=x86_64 xiaoyaliu/alist
 ## --platform=linux dmtc/tun
 ## --platform=amd64 dmtc/tun
---platform=amd64 sulinggg/openwrt-mini
+sulinggg/openwrt-mini
